@@ -1,5 +1,5 @@
 
-![Alt text](image.png)
+![screenshot](image.png)
 
 ## Commands are :-
 1. Check your present working directory.  => `pwd`
